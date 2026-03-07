@@ -38,13 +38,13 @@ BASE_URL = [
   "https://www.shiksha.com/college/bhai-gurdas-institute-of-engineering-and-technology-sangrur-29003",
   "https://www.shiksha.com/college/khalsa-college-lyallpur-institute-of-management-technology-jalandhar-64593",
   "https://www.shiksha.com/university/sai-university-chennai-152431",
-  "https://www.shiksha.com/college/avanthi-s-scientific-technological-and-research-academy-hayat-nagar-hyderabad-46582",
-  "https://www.shiksha.com/university/career-point-university-cpur-kota-52853",
-  "https://www.shiksha.com/college/sir-issac-newton-arts-and-science-college-nagapattinam-68691",
-  "https://www.shiksha.com/college/prashanti-institute-of-management-ujjain-147105",
-  "https://www.shiksha.com/college/natwarlal-maniklal-dalal-postgraduate-college-of-arts-and-commerce-n-m-d-college-maharashtra-other-20754",
-  "https://www.shiksha.com/college/aryabhatta-college-acerc-ajmer-42237",
-  "https://www.shiksha.com/college/bon-maharaj-engineering-college-mathura-43109",
+  # "https://www.shiksha.com/college/avanthi-s-scientific-technological-and-research-academy-hayat-nagar-hyderabad-46582",
+  # "https://www.shiksha.com/university/career-point-university-cpur-kota-52853",
+  # "https://www.shiksha.com/college/sir-issac-newton-arts-and-science-college-nagapattinam-68691",
+  # "https://www.shiksha.com/college/prashanti-institute-of-management-ujjain-147105",
+  # "https://www.shiksha.com/college/natwarlal-maniklal-dalal-postgraduate-college-of-arts-and-commerce-n-m-d-college-maharashtra-other-20754",
+  # "https://www.shiksha.com/college/aryabhatta-college-acerc-ajmer-42237",
+  # "https://www.shiksha.com/college/bon-maharaj-engineering-college-mathura-43109",
 ]
 
 
